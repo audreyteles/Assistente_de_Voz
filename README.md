@@ -45,7 +45,7 @@ Obs.: A falta do microfone ou de conexão com a Internet será indicada por áud
   
 ## Comandos de preferências do programa 
 
-  #### As alterações realizadas por estes comandos são salvas e armazenadas no computador
+  As alterações realizadas por estes comandos são salvas e armazenadas no computador
 
   - Listar perfis 
       - Lista os perfis da aplicação.

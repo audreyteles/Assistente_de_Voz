@@ -68,7 +68,7 @@ Obs.: A falta do microfone ou de conexão com a Internet será indicada por áud
   
   - Desligar o computador
   - Reiniciar o computador
-  - Bloquear o computador / Suspencer o computador
+  - Bloquear o computador / Suspender o computador
   - Que horas são?
   - Colocar volume em 
       - após isso é necessário informar a porcentagem, o programa não muta o volume, devido a necessidade do feedback de comunicação com o usuário. O volume define a porcentagem a cada 10%, então o valor informado será arredondado para baixo.

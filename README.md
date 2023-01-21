@@ -48,21 +48,21 @@ Obs.: A falta do microfone ou de conexão com a Internet será indicada por áud
   #### As alterações realizadas por estes comandos são salvas e armazenadas no computador
 
   - Listar perfis 
-      - lista os perfis da aplicação.
+      - Lista os perfis da aplicação.
   - Adicionar um novo perfil 
-      - adicionar um novo perfil de preferências.
+      - Adicionar um novo perfil de preferências.
   - Mudar o seu nome 
-      - mudar o nome da assistente.
+      - Mudar o nome da assistente.
   - Mudar o nome do perfil 
-      - altera o nome de preferências do perfil.
+      - Altera o nome de preferências do perfil.
   - Mudar perfil 
-      - altera para um perfil escolhido.
+      - Altera para um perfil escolhido.
   - Alterar modo 
-      - existem 2 modos, após a chamada no modo padrão é executada uma fala da assistente como um "Olá, boa tarde! O que você deseja?", já no outro modo, é executado apenas um som de indicação.
+      - Existem 2 modos, após a chamada no modo padrão é executada uma fala da assistente como um "Olá, boa tarde! O que você deseja?", já no outro modo, é executado apenas um som de indicação.
   - Desligar o programa
     - Encerra o programa.
   - Cancelar comando
-    - caso tenha chamado um comando por engano pode dizer este e será redirecionado ao "início".  
+    - Caso tenha chamado um comando por engano pode dizer este e será redirecionado ao "início".  
 
 ## Comandos do computador
   
@@ -71,7 +71,7 @@ Obs.: A falta do microfone ou de conexão com a Internet será indicada por áud
   - Bloquear o computador / Suspender o computador
   - Que horas são?
   - Colocar volume em 
-      - após isso é necessário informar a porcentagem, o programa não muta o volume, devido a necessidade do feedback de comunicação com o usuário. O volume define a porcentagem a cada 10%, então o valor informado será arredondado para baixo.
+      - Após isso, é necessário informar a porcentagem, o programa não muta o volume, devido a necessidade do feedback de comunicação com o usuário. O volume define a porcentagem a cada 10%, então o valor informado será arredondado para baixo.
       - Exemplo: Se informar "Colocar o volume em 56%" será definido em 50%.
  
    

@@ -1,4 +1,4 @@
-# Guia da Assistente de Voz
+# Guia do Protótipo de Sistema com Assistente de Voz para Auxílio às Pessoas com Deficiência Visual no Uso de Computadores
 
 O programa por padrão vem com o nome "Assistente", nesse caso basta chamá-lo e receberá um feedback sonoro. Também, o programa é iniciado juntamente ao Windows, para evitar a necessidade de abrí-lo manualmente todas as vezes.
 

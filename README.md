@@ -76,3 +76,22 @@ Obs.: A falta do microfone ou de conexão com a Internet será indicada por áud
  
 ## Abrir programas do computador
   - Abrir o explorador de arquivos
+
+## Interface
+Um ícone de microfone será adicionado à sua barra de tarefas, no canto inferior direito, próximo a data e hora, como na imagem abaixo:
+![image](https://user-images.githubusercontent.com/68817384/213927339-ec458e82-74b4-46be-a547-1c5efebf5319.png)
+
+Ao clicar com o botão direito do mouse por cima do ícone aparecem 3 opções, como abaixo:  
+
+![image](https://user-images.githubusercontent.com/68817384/213927565-1b3cc023-9259-4e94-b56d-7be8f7212303.png)
+
+As opção e suas respectivas ações, são:
+  - Abrir - Abre uma tela onde é possível consultar o perfil atualmente ativo, bem como, todos os cadastrados e suas informações (ID- Código do Perfil, Nome da Assistente, Nome do Perfil e Modo).Também é fornecido um menu, com opções de Ações, que contém o ítem de Encerrar o programa, e a opção de Ajuda, que contém a opção Guia de uso e Sobre, como apresentado abaixo:  
+  
+  ![image](https://user-images.githubusercontent.com/68817384/213927826-9b3a180c-75c9-453c-954b-3a9648807a61.png)
+  
+  - Guia de uso - Redireciona o usuáio para esta página, onde estão descritas as funções do programa.  
+    
+  - Encerrar - Encerra o programa.
+
+

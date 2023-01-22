@@ -76,4 +76,3 @@ Obs.: A falta do microfone ou de conexão com a Internet será indicada por áud
  
 ## Abrir programas do computador
   - Abrir o explorador de arquivos
-  - Abrir o bloco de notas

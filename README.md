@@ -74,4 +74,6 @@ Obs.: A falta do microfone ou de conexão com a Internet será indicada por áud
       - Após isso, é necessário informar a porcentagem, o programa não muta o volume, devido a necessidade do feedback de comunicação com o usuário. O volume define a porcentagem a cada 10%, então o valor informado será arredondado para baixo.
       - Exemplo: Se informar "Colocar o volume em 56%" será definido em 50%.
  
-   
+## Abrir programas do computador
+  - Abrir o explorador de arquivos
+  - Abrir o bloco de notas

@@ -90,7 +90,7 @@ As opção e suas respectivas ações, são:
   
   ![image](https://user-images.githubusercontent.com/68817384/213927826-9b3a180c-75c9-453c-954b-3a9648807a61.png)
   
-  - Guia de uso - Redireciona o usuáio para esta página, onde estão descritas as funções do programa.  
+  - Guia de uso - Redireciona o usuário para esta página, onde estão descritas as funções do programa.  
     
   - Encerrar - Encerra o programa.
 
